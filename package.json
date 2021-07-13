@@ -1,0 +1,27 @@
+{
+  "name": "erela.js-music-bot",
+  "version": "1.0.0",
+  "description": "An Open-Source Music Bot using Erela.js and lavalink",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DashCruft/Erela.JS-Music-Bot.git"
+  },
+  "author": "DashCruft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DashCruft/Erela.js-music-bot/issues"
+  },
+  "homepage": "https://github.com/DashCruft/Erela.js-music-bot#readme",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "erela.js": "^2.3.3",
+    "eslint": "^7.30.0",
+    "mongoose": "^5.13.2"
+  }
+}
