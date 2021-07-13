@@ -20,8 +20,6 @@
     "chalk": "^4.1.1",
     "discord.js": "^12.5.3",
     "dotenv": "^10.0.0",
-    "erela.js": "^2.3.3",
-    "eslint": "^7.30.0",
-    "mongoose": "^5.13.2"
+    "erela.js": "^2.3.3"
   }
 }
